@@ -30,3 +30,20 @@ Libraries: Pandas, Numpy
 ### Corrected Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/DistrictSummaryChallenge.png)
 
+### Interpretation
+The correction for the academic dishonesty impacted the District Summary as summarized below:
+* Average math score dropped by 0.1% from 79.0% to 78.9%.
+* Average reading score did not change significantly to a tenth of a percent.
+* Percentage of students who passed math dropped by 1% from 75% to 74%.
+* Percentage of students who passed reading dropped by 1% from 86% to 85%.
+* Overall passing percentage dropped by 1% from 65% to 64%.
+
+## School Summary
+### Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/SchoolSummary.png)
+
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/SchoolSummaryChallenge.png)
+
+### Interpretation
+The correction for the academic dishonesty impacted the District Summary as summarized below:
