@@ -102,7 +102,7 @@ The following is a rendering of the scores by spending per student. Thomas High 
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSpending.png)
 
 ### Corrected Analysis
-![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSpending.png)
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSpendingChallenge.png)
 
 ### Interpretation
 The correction for the academic dishonesty did not impact the average math score or average reading score in the $630-644 bin, as these remained at 78.5% and 81.6%, respectively; however, the percentage of students passing math, passing reading, and passing math and reading for the same bin were all impacted such that they decreased as follows:
@@ -110,7 +110,8 @@ The correction for the academic dishonesty did not impact the average math score
 * Percentage passing reading decreased by 7%, from 84% to 77%.
 * Percentage passing math and reading decreased by 7%, form 63% to 56%.
 
-This decrease is to be expected, as the Thomas High School 9th grade data was removed from this calculation. Since the grouping of students in the spending bucket 
+This decrease is to be expected, as the Thomas High School 9th grade data was removed from this calculation. Since the grouping of students in the spending bucket is representative of a larger student population, removing the data from this subset would not impact the scores as dramatically as they do when looking at the scores only for Thomas High School.
+
 ## Scores by School Size
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSize.png)
