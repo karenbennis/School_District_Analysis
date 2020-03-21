@@ -83,6 +83,8 @@ The following is a rendering of the math scores by grade for each school.
 ### Interpretation
 The correction for the academic dishonesty impacted Thomas High School's 9th grade math scores, as they are included in the original analysis (and were equal to 83.6%) and null in the the corrected analysis (since these values were removed from the dataset).
 
+All other data was unchanged.
+
 ## Reading Scores by Grade
 The following is a rendering of the reading scores by grade for each school.
 
@@ -94,6 +96,8 @@ The following is a rendering of the reading scores by grade for each school.
 
 ### Interpretation
 The correction for the academic dishonesty impacted Thomas High School's 9th grade reading scores, as they are included in the original analysis (and were equal to 83.7%) and null in the the corrected analysis (since these values were removed from the dataset).
+
+All other data was unchanged.
 
 ## Scores by School Spending
 The following is a rendering of the scores by spending per student. Thomas High School falls into the $630-644 bin.
@@ -108,11 +112,15 @@ The following is a rendering of the scores by spending per student. Thomas High 
 The correction for the academic dishonesty did not impact the average math score or average reading score in the $630-644 bin, as these remained at 78.5% and 81.6%, respectively; however, the percentage of students passing math, passing reading, and passing math and reading for the same bin were all impacted such that they decreased as follows:
 * Percentage passing math decreased by 6%, from 73% to 67%.
 * Percentage passing reading decreased by 7%, from 84% to 77%.
-* Percentage passing math and reading decreased by 7%, form 63% to 56%.
+* Percentage passing math and reading decreased by 7%, from 63% to 56%.
 
 This decrease is to be expected, as the Thomas High School 9th grade data was removed from this calculation. Since the grouping of students in the spending bucket is representative of a larger student population, removing the data from this subset would not impact the scores as dramatically as they do when looking at the scores only for Thomas High School.
 
+Scores for all other spending bins remained the same in both analyses.
+
 ## Scores by School Size
+The following is a rendering of the scores by school size. Thomas High School is a medium-sized school with 1000-2000 students.
+
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSize.png)
 
@@ -120,9 +128,18 @@ This decrease is to be expected, as the Thomas High School 9th grade data was re
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSizeChallenge.png)
 
 ### Interpretation
+The correction for the academic dishonesty did not impact the average math score or average reading score in the medium-sized school bin, as these remained at 83.4% and 83.9%, respectively; however, the percentage of students passing math, passing reading, and passing math and reading for the same bin were all impacted such that they decreased as follows:
+* Percentage passing math decreased by 6%, from 94% to 88%.
+* Percentage passing reading decreased by 6%, from 97% to 91%.
+* Percentage passing math and reading decreased by 6%, from 91% to 85%.
 
+This decrease is to be expected, as the Thomas High School 9th grade data was removed from this calculation. Since the grouping of students in the school-size bucket is representative of a larger student population (even relative to school spending bins), removing the data from this subset would not impact the scores as dramatically as they do when looking at the scores only for Thomas High School.
+
+Scores for the other school sizes remained the same in both analyses.
 
 ## Scores by School Type
+The following is a rendering of the scores by school type. Thomas High School is a Charter school.
+
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolType.png)
 
@@ -130,3 +147,11 @@ This decrease is to be expected, as the Thomas High School 9th grade data was re
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolTypeChallenge.png)
 
 ### Interpretation
+The correction for the academic dishonesty did not impact the average math score or average reading score in the Charter school type, as these remained at 83.5% and 83.9%, respectively; however, the percentage of students passing math, passing reading, and passing math and reading for the same bin were all impacted such that they decreased as follows:
+* Percentage passing math decreased by 4%, from 94% to 90%.
+* Percentage passing reading decreased by 4%, from 97% to 93%.
+* Percentage passing math and reading decreased by 3%, from 90% to 87%.
+
+This decrease is to be expected, as the Thomas High School 9th grade data was removed from this calculation. Since the grouping of students in the school-size bucket is representative of a larger student population (even relative to school size), removing the data from this subset would not impact the scores as dramatically as they do when looking at the scores only for Thomas High School.
+
+Scores for District schools remained the same in both analyses.
