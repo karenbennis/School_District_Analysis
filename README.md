@@ -67,7 +67,7 @@ The following is a rendering of the entire DataFrame which sorts the school perf
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchoolsChallenge.png)
 
 ### Interpretation
-The correction for the academic dishonesty impacted the Thomas High School's, moving down six places, from 2nd to 8th.
+The correction for the academic dishonesty impacted Thomas High School's performance rank, such that it moved down six places, from 2nd to 8th.
 
 This is not surprising for the same reasons described in the School Summary analysis, above.
 
@@ -79,7 +79,7 @@ This is not surprising for the same reasons described in the School Summary anal
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/MathScoresByGradeChallenge.png)
 
 ### Interpretation
-
+The correction for the academic dishonesty impacted Thomas High School's 9th grade math scores, as they are included in the original analysis (and were equal to 83.6%) and null in the the corrected analysis (since these values were removed from the dataset).
 
 ## Reading Scores by Grade
 ### Original Analysis
@@ -89,6 +89,7 @@ This is not surprising for the same reasons described in the School Summary anal
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ReadingScoresByGradeChallenge.png)
 
 ### Interpretation
+The correction for the academic dishonesty impacted Thomas High School's 9th grade reading scores, as they are included in the original analysis (and were equal to 83.7%) and null in the the corrected analysis (since these values were removed from the dataset).
 
 ## Scores by School Spending
 ### Original Analysis
