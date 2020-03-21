@@ -57,7 +57,7 @@ The correction for the academic dishonesty impacted the School Summary as summar
 
 These results are to be expected since it follows that approximately a quarter of the students at Thomas High School are 9th grade students. The respective scores were removed from the dataset; therefore, these students would appear as though they did not pass math or reading.
 
-## High-performing and low-performing schools
+## High-performing and low-performing schools (school perfomrance rank)
 The following is a rendering of the entire DataFrame which sorts the school performance in descending order, meaning, the top performing school appears first, and the bottom performing school appears last.
 
 ### Original Analysis
