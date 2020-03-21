@@ -63,13 +63,43 @@ The following is a rendering of the entire DataFrame which sorts the school perf
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchools.png)
 
+The top 5 schools are:
+1. Cabrera High School
+2. Thomas High School
+3. Griffin High School
+4. Wilson High School
+5. Pena High School
+
+The bottom 5 schools are:
+11. Johnson High School
+12. Hernandez High School
+13. Huang High School
+14. Figueroa High School
+15. Rodriguez High School
+
 ### Corrected Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchoolsChallenge.png)
+
+The top 5 schools are:
+1. Cabrera High School
+2. Griffin High School
+3. Wilson High School
+4. Pena High School
+5. Wright High School
+
+The bottom 5 schools are:
+11. Johnson High School
+12. Hernandez High School
+13. Huang High School
+14. Figueroa High School
+15. Rodriguez High School
 
 ### Interpretation
 The correction for the academic dishonesty impacted Thomas High School's performance rank, such that it moved down six places, from 2nd to 8th.
 
 This is not surprising for the same reasons described in the School Summary analysis, above.
+
+Somewhat noteworthy is that the Charter schools have higher performance than all of the District schools. This o
 
 ## Math Scores by Grade
 The following is a rendering of the math scores by grade for each school.
