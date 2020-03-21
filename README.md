@@ -72,6 +72,8 @@ The correction for the academic dishonesty impacted Thomas High School's perform
 This is not surprising for the same reasons described in the School Summary analysis, above.
 
 ## Math Scores by Grade
+The following is a rendering of the math scores by grade for each school.
+
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/MathScoresByGrade.png)
 
@@ -82,6 +84,8 @@ This is not surprising for the same reasons described in the School Summary anal
 The correction for the academic dishonesty impacted Thomas High School's 9th grade math scores, as they are included in the original analysis (and were equal to 83.6%) and null in the the corrected analysis (since these values were removed from the dataset).
 
 ## Reading Scores by Grade
+The following is a rendering of the reading scores by grade for each school.
+
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ReadingScoresByGrade.png)
 
@@ -92,6 +96,8 @@ The correction for the academic dishonesty impacted Thomas High School's 9th gra
 The correction for the academic dishonesty impacted Thomas High School's 9th grade reading scores, as they are included in the original analysis (and were equal to 83.7%) and null in the the corrected analysis (since these values were removed from the dataset).
 
 ## Scores by School Spending
+The following is a rendering of the scores by spending per student. Thomas High School falls into the $630-644 bin.
+
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSpending.png)
 
@@ -99,8 +105,12 @@ The correction for the academic dishonesty impacted Thomas High School's 9th gra
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSpending.png)
 
 ### Interpretation
+The correction for the academic dishonesty did not impact the average math score or average reading score in the $630-644 bin, as these remained at 78.5% and 81.6%, respectively; however, the percentage of students passing math, passing reading, and passing math and reading for the same bin were all impacted such that they decreased as follows:
+* Percentage passing math decreased by 6%, from 73% to 67%.
+* Percentage passing reading decreased by 7%, from 84% to 77%.
+* Percentage passing math and reading decreased by 7%, form 63% to 56%.
 
-
+This decrease is to be expected, as the Thomas High School 9th grade data was removed from this calculation. Since the grouping of students in the spending bucket 
 ## Scores by School Size
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSize.png)
