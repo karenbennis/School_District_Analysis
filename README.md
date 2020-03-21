@@ -60,6 +60,10 @@ These results are to be expected since it follows that approximately a quarter o
 ## High-performing and low-performing schools
 The following is a rendering of the entire DataFrame which sorts the school performance in descending order, meaning, the top performing school appears first, and the bottom performing school appears last.
 
-## Original Analysis
+### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchools.png)
 
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchoolsChallenge.png)
+
+### Interpretation
