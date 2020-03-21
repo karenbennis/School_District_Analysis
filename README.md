@@ -16,7 +16,7 @@ The following is the list of deliverables that were completed for the analysis o
 
 After delivering the above, the team became aware that the reading and math scores for 9th graders at Thomas High School had been changed. Since the extent of the academic dishonesty was not known, the team requested that the analysis be rerun with the 9th grade reading and math scores from Thomas High School replaced (while keeping all other associated data in tact).
 
-The analysis that follows in this report compares the initial analysis with the rerun analysis.
+The analysis that follows in this report compares the initial analysis with the rerun corrected analysis.
 
 ## Resources
 Data Source: schools_complete.csv, students_complete.csv
@@ -24,6 +24,9 @@ Software: Python 3.7.6, Jupyter Notebook 6.0.3
 Libraries: Pandas, Numpy
 
 ## District Summary
-### Initial output
-![](DataBootcamp/School_District_Analysis/DistrictSummary.png)
+### Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/DistrictSummary.png)
+
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/DistrictSummaryChallenge.png)
 
