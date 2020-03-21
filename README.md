@@ -32,13 +32,15 @@ Libraries: Pandas, Numpy
 
 ### Interpretation
 The correction for the academic dishonesty impacted the District Summary as summarized below:
-* Average math score dropped by 0.1% from 79.0% to 78.9%.
+* Average math score decreased by 0.1%, from 79.0% to 78.9%.
 * Average reading score did not change significantly to a tenth of a percent.
-* Percentage of students who passed math dropped by 1% from 75% to 74%.
-* Percentage of students who passed reading dropped by 1% from 86% to 85%.
-* Overall passing percentage dropped by 1% from 65% to 64%.
+* Percentage of students who passed math decreased by 1%, from 75% to 74%.
+* Percentage of students who passed reading decreased by 1%, from 86% to 85%.
+* Overall passing percentage decreased by 1%, from 65% to 64%.
 
 ## School Summary
+The following is a rendering of the Thomas High School row within the School Summary DataFrame for the original and corrected datasets.
+
 ### Original Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/SchoolSummary.png)
 
@@ -46,4 +48,18 @@ The correction for the academic dishonesty impacted the District Summary as summ
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/SchoolSummaryChallenge.png)
 
 ### Interpretation
-The correction for the academic dishonesty impacted the District Summary as summarized below:
+The correction for the academic dishonesty impacted the School Summary as summarized below:
+* Average math score decreased by 0.07%, from 83.42% to 83.35%.
+* Average reading score increased by 0.05% from 83.85% to 83.90%.
+* Percentage of students who passed math decreased by 26.4%, from 93.3% to 66.9%.
+* Percentage of students who passed reading decreased by 27.6%, from 97.3% to 69.7%.
+* Overall passing percentage decreased by 25.8%, from 90.9% to 65.1%.
+
+These results are to be expected since it follows that approximately a quarter of the students at Thomas High School are 9th grade students. The respective scores were removed from the dataset; therefore, these students would appear as though they did not pass math or reading.
+
+## High-performing and low-performing schools
+The following is a rendering of the entire DataFrame which sorts the school performance in descending order, meaning, the top performing school appears first, and the bottom performing school appears last.
+
+## Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchools.png)
+
