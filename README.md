@@ -71,11 +71,11 @@ The top 5 schools are:
 5. Pena High School
 
 The bottom 5 schools are:
-11. Johnson High School
-12. Hernandez High School
-13. Huang High School
-14. Figueroa High School
-15. Rodriguez High School
+1. Johnson High School
+2. Hernandez High School
+3. Huang High School
+4. Figueroa High School
+5. Rodriguez High School
 
 ### Corrected Analysis
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchoolsChallenge.png)
@@ -88,18 +88,18 @@ The top 5 schools are:
 5. Wright High School
 
 The bottom 5 schools are:
-11. Johnson High School
-12. Hernandez High School
-13. Huang High School
-14. Figueroa High School
-15. Rodriguez High School
+1. Johnson High School
+2. Hernandez High School
+3. Huang High School
+4. Figueroa High School
+5. Rodriguez High School
 
 ### Interpretation
-The correction for the academic dishonesty impacted Thomas High School's performance rank, such that it moved down six places, from 2nd to 8th.
+The correction for the academic dishonesty impacted Thomas High School's performance rank, such that it moved down 6S places, from 2nd to 8th.
 
 This is not surprising for the same reasons described in the School Summary analysis, above.
 
-Somewhat noteworthy is that the Charter schools have higher performance than all of the District schools. This o
+Somewhat noteworthy is that the Charter schools have higher performance than all of the District schools. This observation continues to be true, even after Thomas High School moved down 6 places.
 
 ## Math Scores by Grade
 The following is a rendering of the math scores by grade for each school.
