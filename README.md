@@ -67,3 +67,54 @@ The following is a rendering of the entire DataFrame which sorts the school perf
 ![](https://github.com/karenbennis/School_District_Analysis/blob/master/TopSchoolsChallenge.png)
 
 ### Interpretation
+The correction for the academic dishonesty impacted the Thomas High School's, moving down six places, from 2nd to 8th.
+
+This is not surprising for the same reasons described in the School Summary analysis, above.
+
+## Math Scores by Grade
+### Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/MathScoresByGrade.png)
+
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/MathScoresByGradeChallenge.png)
+
+### Interpretation
+
+
+## Reading Scores by Grade
+### Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ReadingScoresByGrade.png)
+
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ReadingScoresByGradeChallenge.png)
+
+### Interpretation
+
+## Scores by School Spending
+### Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSpending.png)
+
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSpending.png)
+
+### Interpretation
+
+
+## Scores by School Size
+### Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSize.png)
+
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolSizeChallenge.png)
+
+### Interpretation
+
+
+## Scores by School Type
+### Original Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolType.png)
+
+### Corrected Analysis
+![](https://github.com/karenbennis/School_District_Analysis/blob/master/ScoresBySchoolTypeChallenge.png)
+
+### Interpretation
